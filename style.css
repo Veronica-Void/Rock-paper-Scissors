@@ -1,0 +1,59 @@
+.boldthis {
+    font-size: large;
+    color: black;
+}
+
+.user{
+    color: lightgreen;
+    font-size: large;
+}
+
+.pc{
+    color:red;
+    font-size: large;
+}
+
+.userwin{
+    font-size: large;
+    color: darkgoldenrod;
+
+}
+
+.userloss{
+    font-size: large;
+    color: darkred;
+}
+
+.ties{
+    font-size: large;
+    color: peachpuff;
+}
+
+button{
+    font-size: 30px;
+    font-family: monospace;
+    font-style: italic;
+    background-color: aliceblue;
+    padding:50px;
+}
+
+th {
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+body{
+    
+    background-color: honeydew;
+}
+
+.pd {
+    padding-top: 5px;
+    font-size: large;
+}
+
+table {
+    background-color:whitesmoke;
+    border-color: black;
+}
